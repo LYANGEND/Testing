@@ -2,14 +2,14 @@
 
 # Project Name
 
-> Description the project.
+> Using jest to test basic javascript functions.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Javascript
+- jest
+
 
 ## Live Demo (if available)
 
@@ -42,15 +42,6 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
